@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Country Info</string>
+    <string-array name="countries_array">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>Brazil</item>
+        <item>UK</item>
+    </string-array>
+</resources>
